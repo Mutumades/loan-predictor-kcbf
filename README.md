@@ -1,4 +1,4 @@
-Loan Approval Predictor
+
 This project presents a complete machine learning pipeline for predicting loan approval status. It uses a dataset with details about loan applicants to train and compare two classification models: Logistic Regression and a Decision Tree. The goal is to identify which model performs best and to provide an interactive application for making predictions.
 
 📂 Project Structure
